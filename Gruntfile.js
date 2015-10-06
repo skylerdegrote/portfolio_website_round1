@@ -26,7 +26,6 @@ module.exports = function(grunt) {
                 src: "client/scripts/controllers/controllers.js",
                 dest: "server/public/assets/scripts/controllers/controller.min.js"
             }
-
         },
         copy: {
             styles: {
