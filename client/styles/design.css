@@ -1,1 +1,15 @@
 /* associated to the design.html page */
+
+
+
+#portfolio {
+    margin-top: 200px;
+    margin-bottom: 200px;
+}
+
+.designPiece {
+    min-height: 250px;
+    background-color: #4d4f4f;
+    margin: 40px 40px 40px 50px;
+}
+

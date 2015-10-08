@@ -1,0 +1,84 @@
+/* all html files have this css */
+
+body {
+    background-color: #f78e27;
+}
+
+
+h1 {
+    color: #4d4f4f;
+    font-size: 70px;
+    text-align: center;
+    margin-top: 200px;
+}
+
+h4 a{
+    color: #f78e27;
+    font-size: 20px;
+    float: left;
+    margin: 50px;
+}
+
+h4 a:hover, h4 a:active {
+    text-decoration: underline;
+    font-weight: bold;
+    color: #f78e27;
+}
+
+h6 {
+    font-size: 14px;
+    text-align: center;
+    padding: 10px;
+}
+
+header {
+    position: absolute;
+    z-index: 100;
+    width: 100%;
+    top: 0;
+}
+
+footer {
+    background-color: #4d4f4f;
+    min-height: 50px;
+    position: absolute;
+    width: 100%;
+    color: #f78e27;
+}
+
+#navbar {
+    height: 150px;
+    background-color: #4d4f4f;
+    margin-bottom:50px;
+}
+
+#github, #linkedin, #twitter {
+    background-color: orange;
+    border: #f78e27 3px solid;
+    border-radius: 50px;
+    width: 100px;
+    height: 100px;
+    float: right;
+    background-size: cover;
+}
+
+#github {
+    position: absolute;
+    top: 100px;
+    right: 380px;
+    background-image: url("../images/drk_githublogo.png");
+}
+
+#linkedin {
+    position: absolute;
+    top: 100px;
+    right: 240px;
+    background-image: url("../images/drk_linkedinlogo.png");
+}
+
+#twitter {
+    position: absolute;
+    top: 100px;
+    right: 100px;
+    background-image: url("../images/drk_twitterlogo.png");
+}

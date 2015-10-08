@@ -1,1 +1,92 @@
 /* associated to the index.html page */
+body {
+    background-color: #4d4f4f;
+}
+
+h1 {
+    color: #f78e27;
+    font-size: 70px;
+    text-align: center;
+    margin-top: 200px;
+}
+
+h3#name {
+    position: absolute;
+    top: -42px;
+    left: 50px;
+    color: #f78e27;
+    font-weight: bolder;
+}
+
+h4 a{
+    color: #4d4f4f;
+    font-size: 20px;
+    float: left;
+    margin: 50px;
+}
+
+h4 a:hover, h4 a:active {
+    text-decoration: underline;
+    font-weight: bold;
+    color: #4d4f4f;
+}
+
+h6 {
+    font-size: 14px;
+    text-align: center;
+    padding: 10px;
+}
+
+footer {
+    background-color: #f78e27;
+    min-height: 50px;
+}
+
+
+#top {
+    background-color: #4d4f4f;
+    min-height: 400px;
+    max-height: 550px;
+    margin: 0;
+    padding: 0;
+}
+
+#navbar {
+    background-color: #f78e27;
+    height: 230px;
+    margin: 0;
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+}
+
+#github, #linkedin, #twitter {
+    background-color: orange;
+    border: #4d4f4f 3px solid;
+    border-radius: 50px;
+    width: 100px;
+    height: 100px;
+    float: right;
+    background-size: cover;
+}
+
+#github {
+    position: absolute;
+    top: -50px;
+    right: 380px;
+    background-image: url("../images/lt_githublogo.png");
+}
+
+#linkedin {
+    position: absolute;
+    top: -50px;
+    right: 240px;
+    background-image: url("../images/lt_linkedinlogo.png");
+}
+
+#twitter {
+    position: absolute;
+    top: -50px;
+    right: 100px;
+    background-image: url("../images/lt_twitterlogo.png");
+}

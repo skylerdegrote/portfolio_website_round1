@@ -1,1 +1,45 @@
 /* associated to the resume.html page */
+
+#resume {
+    margin-top: 250px;
+    margin-bottom: 100px;
+    min-height: 320px;
+}
+
+.objective, .education, .prime, .workExperience, .software, .contact, .accomplishments, .extraActivities {
+    background-color: #4d4f4f;
+    min-height: 100px;
+    border: 10px solid #f78e27;
+}
+
+.objective {
+    height: 240px;
+}
+
+.education {
+    height: 400px;
+}
+
+.prime {
+    height: 450px;
+}
+
+.workExperience {
+    height: 450px;
+}
+
+.software {
+    height: 850px;
+}
+
+.contact {
+    height: 400px;
+}
+
+.accomplishments {
+    height: 150px;
+}
+
+.extraActivities {
+    height: 300px;
+}
