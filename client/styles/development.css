@@ -2,7 +2,13 @@
 
 
 #devportfolio {
-    margin-top: 200px;
-    margin-bottom: 200px;
+    margin-top: 250px;
+    margin-bottom: 100px;
     min-height: 320px;
+}
+
+.proj1 div{
+    min-height: 200px;
+    background-color: #4d4f4f;
+    border: 10px solid #f78e27;
 }
