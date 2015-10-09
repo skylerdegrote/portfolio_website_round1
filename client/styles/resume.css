@@ -7,9 +7,7 @@
 }
 
 .objective, .education, .prime, .workExperience, .software, .contact, .accomplishments, .extraActivities {
-    background-color: #4d4f4f;
     min-height: 100px;
-    border: 10px solid #f78e27;
 }
 
 .objective {

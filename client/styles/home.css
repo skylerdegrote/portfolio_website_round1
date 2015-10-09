@@ -74,19 +74,19 @@ footer {
     position: absolute;
     top: -50px;
     right: 380px;
-    background-image: url("../images/lt_githublogo.png");
+    background-image: url("../images/logos/lt_githublogo.png");
 }
 
 #linkedin {
     position: absolute;
     top: -50px;
     right: 240px;
-    background-image: url("../images/lt_linkedinlogo.png");
+    background-image: url("../images/logos/lt_linkedinlogo.png");
 }
 
 #twitter {
     position: absolute;
     top: -50px;
     right: 100px;
-    background-image: url("../images/lt_twitterlogo.png");
+    background-image: url("../images/logos/lt_twitterlogo.png");
 }

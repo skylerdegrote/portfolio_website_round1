@@ -1,15 +1,25 @@
 /* all html files have this css */
 
 body {
-    background-color: #f78e27;
 }
 
+body.fall {
+    /*background: url("../images/background/fall-v.jpg");*/
+    background-color: #f78e27;
+    background-size: 100%;
+}
 
 h1 {
     color: #4d4f4f;
     font-size: 70px;
     text-align: center;
     margin-top: 200px;
+}
+
+h3 {
+    color: #f78e27;
+    font-size: 20px;
+    line-height: 150%;
 }
 
 h4 a{
@@ -22,6 +32,10 @@ h4 a{
 h4 a:hover, h4 a:active {
     text-decoration: underline;
     font-weight: bold;
+    color: #f78e27;
+}
+
+h5 {
     color: #f78e27;
 }
 
@@ -46,6 +60,11 @@ footer {
     color: #f78e27;
 }
 
+.back {
+    background-color: rgb(77, 79, 79);
+    border: 10px solid rgb(247, 142, 39);
+}
+
 #navbar {
     height: 150px;
     background-color: #4d4f4f;
@@ -66,19 +85,19 @@ footer {
     position: absolute;
     top: 100px;
     right: 380px;
-    background-image: url("../images/drk_githublogo.png");
+    background-image: url("../images/logos/drk_githublogo.png");
 }
 
 #linkedin {
     position: absolute;
     top: 100px;
     right: 240px;
-    background-image: url("../images/drk_linkedinlogo.png");
+    background-image: url("../images/logos/drk_linkedinlogo.png");
 }
 
 #twitter {
     position: absolute;
     top: 100px;
     right: 100px;
-    background-image: url("../images/drk_twitterlogo.png");
+    background-image: url("../images/logos/drk_twitterlogo.png");
 }
