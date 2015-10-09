@@ -15,16 +15,36 @@
 
 .modal {
     overflow: scroll;
+    max-height: 700px;
 }
 
-#placeholderLogo {
+.placeholderLogo {
+    background-image: url("../images/placeholder/images_logo_placeholder.png");
+    display: inline-block;
     height: 100px;
     width: 100px;
+    background-size: cover;
+    float: left;
+    margin: 20px;
+}
+
+.placeholderImage {
     display: inline-block;
+    background-image: url("../images/placeholder/images_modal_placeholder.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 350px;
+    width: 530px;
+    float: left;
+    clear: both;
 }
 
 .modal-title {
     display: inline-block;
     font-size: 28px;
-    margin-left: 20px;
+    margin: 20px;
+}
+
+.close {
+    margin: 20px;
 }

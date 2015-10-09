@@ -8,6 +8,11 @@ body.fall {
     background-size: 100%;
 }
 
+p {
+    display: block;
+    clear: both;
+}
+
 h1 {
     color: #000;
     font-size: 70px;
