@@ -5,11 +5,6 @@
 
 //doc ready here
 $(document).ready(function(){
-    $("body").on("click", ".designPiece", function(){
-        alert("design piece works")
-    });
-
-
 
 
 

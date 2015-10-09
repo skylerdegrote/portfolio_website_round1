@@ -69,7 +69,6 @@ $(document).ready(function(){
         i++;
     }
 
-    console.log(quotes[randomNumber])
 
 });//end doc ready
 

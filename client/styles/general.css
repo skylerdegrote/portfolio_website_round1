@@ -4,26 +4,25 @@ body {
 }
 
 body.fall {
-    /*background: url("../images/background/fall-v.jpg");*/
-    background-color: #f78e27;
+    background-color: #691814;
     background-size: 100%;
 }
 
 h1 {
-    color: #4d4f4f;
+    color: #000;
     font-size: 70px;
     text-align: center;
     margin-top: 200px;
 }
 
 h3 {
-    color: #f78e27;
+    color: #000;
     font-size: 20px;
     line-height: 150%;
 }
 
 h4 a{
-    color: #f78e27;
+    color: #000;
     font-size: 20px;
     float: left;
     margin: 50px;
@@ -32,11 +31,11 @@ h4 a{
 h4 a:hover, h4 a:active {
     text-decoration: underline;
     font-weight: bold;
-    color: #f78e27;
+    color: #000;
 }
 
 h5 {
-    color: #f78e27;
+    color: #000;
 }
 
 h6 {
@@ -47,33 +46,32 @@ h6 {
 
 header {
     position: absolute;
-    z-index: 100;
     width: 100%;
     top: 0;
 }
 
 footer {
-    background-color: #4d4f4f;
+    background-color: #bdc1c1;
     min-height: 50px;
     position: absolute;
     width: 100%;
-    color: #f78e27;
+    color: #000;
 }
 
 .back {
-    background-color: rgb(77, 79, 79);
-    border: 10px solid rgb(247, 142, 39);
+    background-color: rgb(189, 193, 193);
+    border: 10px solid #691814;
 }
 
 #navbar {
     height: 150px;
-    background-color: #4d4f4f;
+    background-color: #bdc1c1;
     margin-bottom:50px;
 }
 
 #github, #linkedin, #twitter {
-    background-color: orange;
-    border: #f78e27 3px solid;
+    background-color: #691814;
+    border: #691814 3px solid;
     border-radius: 50px;
     width: 100px;
     height: 100px;
@@ -85,19 +83,19 @@ footer {
     position: absolute;
     top: 100px;
     right: 380px;
-    background-image: url("../images/logos/drk_githublogo.png");
+    background-image: url("../images/logos/fall_githublogo.png");
 }
 
 #linkedin {
     position: absolute;
     top: 100px;
     right: 240px;
-    background-image: url("../images/logos/drk_linkedinlogo.png");
+    background-image: url("../images/logos/fall_linkedinlogo.png");
 }
 
 #twitter {
     position: absolute;
     top: 100px;
     right: 100px;
-    background-image: url("../images/logos/drk_twitterlogo.png");
+    background-image: url("../images/logos/fall_twitterlogo.png");
 }

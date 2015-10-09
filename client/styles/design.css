@@ -4,7 +4,7 @@
 
 #portfolio {
     margin-top: 200px;
-    margin-bottom: 200px;
+    margin-bottom: 80px;
 }
 
 .designPiece {
@@ -13,7 +13,18 @@
 }
 
 
+.modal {
+    overflow: scroll;
+}
 
+#placeholderLogo {
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+}
 
-
-
+.modal-title {
+    display: inline-block;
+    font-size: 28px;
+    margin-left: 20px;
+}
