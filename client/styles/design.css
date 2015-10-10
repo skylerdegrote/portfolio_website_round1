@@ -1,6 +1,8 @@
 /* associated to the design.html page */
 
-
+footer {
+    bottom:0;
+}
 
 #portfolio {
     margin-top: 200px;
@@ -9,7 +11,7 @@
 
 .designPiece {
     min-height: 250px;
-    margin: 40px 40px 40px 50px;
+    margin-top: 50px;
 }
 
 
@@ -47,4 +49,27 @@
 
 .close {
     margin: 20px;
+}
+
+/* design portfolio pieces images */
+/* FLIPPN FLOWERS */
+.flippnLogo, .flippnVDaySaying, .flippnBillboard {
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 350px;
+    width: 530px;
+    float: left;
+    clear: both;
+}
+
+.flippnLogo {
+    background-image: url("../images/design_pieces/flippn_flowers/logo.png");
+}
+
+.flippnVDaySaying {
+    background-image: url("../images/design_pieces/flippn_flowers/vday.png");
+}
+
+.flippnBillboard {
+    background-image: url("../images/design_pieces/flippn_flowers/billboard.png");
 }
