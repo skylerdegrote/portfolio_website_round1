@@ -4,22 +4,17 @@
         <meta charset="UTF-8">
         <title>Skyler DeGrote's Portfolio Design Page</title>
 
-
-
-
-
         <!--styles-->
-
         <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
         <link rel="stylesheet" type="text/css" href="../styles/general.css">
         <link rel="stylesheet" type="text/css" href="../styles/design.css">
-
 
         <!--scripts-->
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
         <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
         <script type="text/javascript" src="../scripts/app.js"></script>
         <script type="text/javascript" src="../scripts/design.js"></script>
+
     </head>
     <body class="fall">
         <header id="navbar">
@@ -27,7 +22,7 @@
                 <h4><a href="index.html">Home</a></h4>
                 <h4><a href="resume.html">Resume</a></h4>
                 <h4><a href="development.html">Development</a></h4>
-                <h4><a href="design.html">Design</a></h4>
+                <h4><a href="design.html" class="activePage">Design</a></h4>
             </div>
 
             <a href="https://github.com/skylerdegrote" target="_blank"><div id="github"></div></a>
@@ -35,16 +30,27 @@
             <a href="https://twitter.com/SDegrote" target="_blank"><div id="twitter"></div></a>
         </header>
 
-
     <div id="portfolio" class="container">
-            <div class="col-md-3 designPiece back branding" data-toggle="modal" data-target="#brandingModal"><h3>Flipp'n Flowers</h3></div>
-            <div class="col-md-3 designPiece back illustrations" data-toggle="modal" data-target="#illustrationsModal"><h3>Wakey Wakey Coffee Shop</h3></div>
-            <div class="col-md-3 designPiece back video" data-toggle="modal" data-target="#videoEditingModal"><h3></h3></div>
-            <div class="col-md-3 designPiece back clientCampaigns" data-toggle="modal" data-target="#clientCampaignsModal"><h3></h3></div>
+            <div class="col-md-3 designPiece back branding" data-toggle="modal" data-target="#brandingModal">
+                <h3>Branding</h3>
+                <img src="../images/icons/fall_brandingIcon.png" class="col-md-offset-1 col-md-10">
+            </div>
+
+            <div class="col-md-3 designPiece back clientCampaigns" data-toggle="modal" data-target="#campaignsModal">
+                <h3>Client Campaigns</h3>
+                <br><img src="../images/icons/fall_campaignsIcon.png" class="col-md-12">
+            </div>
+
+            <div class="col-md-3 designPiece back video" data-toggle="modal" data-target="#videoEditingModal">
+                <h3>Illustrations</h3>
+                <br><img src="../images/icons/fall_videoIcon.png" class="col-md-offset-2 col-md-8">
+            </div>
+
+            <div class="col-md-3 designPiece back illustrations" data-toggle="modal" data-target="#illustrationsModal">
+                <h3>Video Editing</h3>
+                <img src="../images/icons/fall_illustrationsIcon.png" class="col-md-offset-2 col-md-8">
+            </div>
     </div>
-
-
-
 
         <div class="container">
             <!-- Modal -->
@@ -58,8 +64,7 @@
                         </div>
                         <div class="modal-body row">
 
-
-                            <div id="exTab1" class="container">
+                            <div class="container">
                                 <ul  class="nav nav-tabs">
                                     <li class="active">
                                         <a  href="#1a" data-toggle="tab">Flipp'n Flowers</a>
@@ -73,20 +78,22 @@
                                 <div class="tab-content clearfix container">
                                     <div class="tab-pane active" id="1a">
                                         <h2>Flipp'n Flowers</h2>
+                                        <p class="clearfix">Flipp'n Flowers was created (here is the description of the project)</p>
+                                        <p class="clearfix">Created in Adobe Illustrator CC</p>
                                         <h4>Logo</h4>
                                         <div class="flippnLogo"></div>
                                         <p class="clearfix">This is the description</p>
-                                        <p class="clearfix">These are the skills I used and the software I used</p>
+
                                         <br>
                                         <h4>Valentines Day Saying</h4>
                                         <div class="flippnVDaySaying"></div>
                                         <p class="clearfix">This is the description</p>
-                                        <p class="clearfix">These are the skills I used and the software I used</p>
+
                                         <br>
                                         <h4>Billboard Advertisement</h4>
                                         <div class="flippnBillboard"></div>
                                         <p class="clearfix">This is the description</p>
-                                        <p class="clearfix">These are the skills I used and the software I used</p>
+
                                     </div>
 
 
@@ -109,8 +116,6 @@
                                 </div>
                             </div>
 
-                            <!--<div class="placeholderImage"></div>-->
-                            <!--<p class="col-md-12 designDescription">This is where the description for the piece will go</p>-->
                         </div>
                         <div class="modal-footer">
                             <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
