@@ -156,6 +156,8 @@ footer {
     height: 450px;
     float: left;
     clear: both;
+    background-image: url("../images/design_pieces/branding/wakey_wakey/wakey_cartoon.png");
+
 }
 .wakeyLatte, .wakeyMacciatto, .wakeyMocha, .wakeyEspresso  {
     background-size: 100%;
@@ -167,10 +169,6 @@ footer {
 
 .wakeyCup {
     background-image: url("../images/design_pieces/branding/wakey_wakey/wakey_cup.png");
-}
-
-.wakeyCartoon {
-    background-image: url("../images/design_pieces/branding/wakey_wakey/wakey_cartoon.png");
 }
 
 .wakeyLatte {
@@ -222,4 +220,177 @@ footer {
     background-repeat: no-repeat;
     margin-left: 25px;
     clear: both;
+}
+
+
+/* campaigns */
+/* MARY KAY COSMETICS */
+.maryLogo {
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 140px;
+    float: left;
+    clear: both;
+    margin-left: 25px;
+}
+
+.maryAd1, .maryAd2, .maryAd3, .maryAd4 {
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 640px;
+    float: left;
+    clear: both;
+    margin-left: 25px;
+}
+.maryLogo {
+    background-image: url("../images/design_pieces/campaigns/mary_kay/mary_campaignLogo.png");
+}
+
+.maryAd1 {
+    background-image: url("../images/design_pieces/campaigns/mary_kay/mary_ad1.png");
+}
+
+.maryAd2 {
+    background-image: url("../images/design_pieces/campaigns/mary_kay/mary_ad2.png");
+}
+
+.maryAd3 {
+    background-image: url("../images/design_pieces/campaigns/mary_kay/mary_ad3.png");
+}
+
+.maryAd4 {
+    background-image: url("../images/design_pieces/campaigns/mary_kay/mary_ad4.png");
+}
+
+.maryFlyer {
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 240px;
+    float: left;
+    clear: both;
+    margin-left: 25px;
+    background-image: url("../images/design_pieces/campaigns/mary_kay/mary_flyerTrifold.png");
+}
+
+.maryEyeliner {
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 40px;
+    float: left;
+    clear: both;
+    margin-left: 25px;
+    background-image: url("../images/design_pieces/campaigns/mary_kay/mary_eyeliner.png");
+}
+
+.maryCompactCase {
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 220px;
+    float: left;
+    clear: both;
+    margin-left: 25px;
+    background-image: url("../images/design_pieces/campaigns/mary_kay/mary_compactCase.png");
+}
+
+.maryFragrance {
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 900px;
+    float: left;
+    clear: both;
+    margin-left: 25px;
+    background-image: url("../images/design_pieces/campaigns/mary_kay/mary_fragrance.png");
+}
+.maryMascara {
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 600px;
+    float: left;
+    clear: both;
+    margin-left: 25px;
+    background-image: url("../images/design_pieces/campaigns/mary_kay/mary_mascara.png");
+}
+
+.maryLipgloss {
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 360px;
+    float: left;
+    clear: both;
+    margin-left: 25px;
+    background-image: url("../images/design_pieces/campaigns/mary_kay/mary_lipgloss.png");
+}
+.marySkinCare {
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 400px;
+    float: left;
+    clear: both;
+    margin-left: 25px;
+    background-image: url("../images/design_pieces/campaigns/mary_kay/mary_skinCare.png");
+}
+
+/* ROCKY BITS SOFTWARE */
+.rockyLogoLight, .rockyLogoDark {
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 150px;
+    float: left;
+    clear: both;
+    margin-left: 25px;
+}
+
+.rockyLogoLight {
+    background-image: url("../images/design_pieces/campaigns/rocky_bits/rocky_logoLight.png");
+}
+.rockyLogoDark{
+    background-image: url("../images/design_pieces/campaigns/rocky_bits/rocky_logoDark.png");
+}
+
+.rockyBCBack, .rockyBCFront {
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 280px;
+    float: left;
+    clear: both;
+    margin-left: 25px;
+    margin-bottom: 20px;
+    border: 1px solid black;
+}
+
+.rockyBCBack {
+    background-image: url("../images/design_pieces/campaigns/rocky_bits/rocky_bcBack.png");
+}
+
+.rockyBCFront {
+    background-image: url("../images/design_pieces/campaigns/rocky_bits/rocky_bcFront.png");
+}
+
+.rockyBannerAd {
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 70px;
+    float: left;
+    clear: both;
+    margin-left: 25px;
+    background-image: url("../images/design_pieces/campaigns/rocky_bits/rocky_bannerAd.png");
+}
+
+/* SOUL COLLECTION */
+.soulcollectionBook1, .soulcollectionBook2 {
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 700px;
+    float: left;
+    clear: both;
+    margin-left: 25px;
+    margin-bottom: 20px;
+}
+
+.soulcollectionBook1 {
+    background-image: url("../images/design_pieces/campaigns/soul_collection/soulcollection_book1.jpg");
+}
+
+.soulcollectionBook2 {
+    background-image: url("../images/design_pieces/campaigns/soul_collection/soulcollection_book2.jpg");
 }
