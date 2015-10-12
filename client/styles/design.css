@@ -191,16 +191,35 @@ footer {
 
 /* AD CLUB */
 
-.adclubLogoDark,. adclubLogoLight {
+/*.adclubLogoDark,. adclubLogoLight {*/
+
+/*}*/
+
+.adclubLogoDark, .adclubLogoLight, .adclubFacebookCover {
+    height: 200px;
     background-size: 100%;
     background-repeat: no-repeat;
-    height: 600px;
-    float: left;
+    margin-left: 25px;
     clear: both;
-    margin: 0;
-
 }
 
 .adclubLogoDark {
     background-image: url("../images/design_pieces/branding/ad_club/adclub_logo_dark.png");
+}
+
+.adclubLogoLight {
+    background-image: url("../images/design_pieces/branding/ad_club/adclub_logo_light.png");
+}
+
+.adclubFacebookCover {
+    background-image: url("../images/design_pieces/branding/ad_club/adclub_facebook_coverphoto.png");
+}
+
+.adclubBilliardsAd {
+    background-image: url("../images/design_pieces/branding/ad_club/adclub_billiardsAd.png");
+    height: 640px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    margin-left: 25px;
+    clear: both;
 }
