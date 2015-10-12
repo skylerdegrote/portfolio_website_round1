@@ -60,7 +60,7 @@ footer {
 
 /* design portfolio pieces images */
 /* FLIPPN FLOWERS */
-.flippnLogo, .flippnVDaySaying, .flippnBillboard {
+.flippnLogo, .flippnLove, .flippnBillboard, .flippnHill, .flippnCare{
     background-size: 100%;
     background-repeat: no-repeat;
     height: 350px;
@@ -70,13 +70,137 @@ footer {
 }
 
 .flippnLogo {
-    background-image: url("../images/design_pieces/flippn_flowers/logo.png");
+    background-image: url("../images/design_pieces/branding/flippn_flowers/flippn_logo.png");
 }
 
-.flippnVDaySaying {
-    background-image: url("../images/design_pieces/flippn_flowers/vday.png");
+.flippnLove {
+    background-image: url("../images/design_pieces/branding/flippn_flowers/flippn_love.png");
 }
 
 .flippnBillboard {
-    background-image: url("../images/design_pieces/flippn_flowers/billboard.png");
+    background-image: url("../images/design_pieces/branding/flippn_flowers/flippn_billboard.png");
+}
+
+.flippnHill {
+    background-image: url("../images/design_pieces/branding/flippn_flowers/flippn_hill.png");
+}
+
+.flippnCare {
+    background-image: url("../images/design_pieces/branding/flippn_flowers/flippn_cares.png");
+}
+
+/* WAKEY WAKEY */
+.wakeyOrangeLogo, .wakeyPeachLogo, .wakeyBrownLogo {
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 200px;
+    width: 530px;
+    float: left;
+    clear: both;
+    margin: 0;
+}
+
+.wakeyOrangeLogo {
+    background-image: url("../images/design_pieces/branding/wakey_wakey/wakey_orange_logo.png");
+}
+
+.wakeyPeachLogo {
+    background-image: url("../images/design_pieces/branding/wakey_wakey/wakey_peach_logo.png");
+}
+
+.wakeyBrownLogo {
+    background-image: url("../images/design_pieces/branding/wakey_wakey/wakey_brown_logo.png");
+}
+
+.wakeyBC {
+    background-size: 80%;
+    background-repeat: no-repeat;
+    height: 350px;
+    float: left;
+    clear: both;
+    margin-left: 20px;
+    background-image: url("../images/design_pieces/branding/wakey_wakey/wakey_bc.png");
+}
+
+.wakeyLetterhead {
+    background-size: 80%;
+    background-repeat: no-repeat;
+    height: 650px;
+    float: left;
+    clear: both;
+    margin-left: 20px;
+    background-image: url("../images/design_pieces/branding/wakey_wakey/wakey_letterhead.png");
+}
+
+.wakeyEnvelope {
+    background-size: 90%;
+    background-repeat: no-repeat;
+    height: 250px;
+    float: left;
+    clear: both;
+    margin-left: 20px;
+    background-image: url("../images/design_pieces/branding/wakey_wakey/wakey_envelope.png");
+}
+
+.wakeyCartoon{
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 340px;
+    float: left;
+    clear: both;
+    margin-left: 25px;
+}
+.wakeyCup {
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 450px;
+    float: left;
+    clear: both;
+}
+.wakeyLatte, .wakeyMacciatto, .wakeyMocha, .wakeyEspresso  {
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 620px;
+    float: left;
+    clear: both;
+}
+
+.wakeyCup {
+    background-image: url("../images/design_pieces/branding/wakey_wakey/wakey_cup.png");
+}
+
+.wakeyCartoon {
+    background-image: url("../images/design_pieces/branding/wakey_wakey/wakey_cartoon.png");
+}
+
+.wakeyLatte {
+    background-image: url("../images/design_pieces/branding/wakey_wakey/wakey_latte.png");
+}
+
+.wakeyMacciatto {
+    background-image: url("../images/design_pieces/branding/wakey_wakey/wakey_macciatto.png");
+}
+
+.wakeyMocha {
+    background-image: url("../images/design_pieces/branding/wakey_wakey/wakey_mocha.png");
+}
+
+.wakeyEspresso {
+    background-image: url("../images/design_pieces/branding/wakey_wakey/wakey_espresso.png");
+}
+
+/* AD CLUB */
+
+.adclubLogoDark,. adclubLogoLight {
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 600px;
+    float: left;
+    clear: both;
+    margin: 0;
+
+}
+
+.adclubLogoDark {
+    background-image: url("../images/design_pieces/branding/ad_club/adclub_logo_dark.png");
 }
