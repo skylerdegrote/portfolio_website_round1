@@ -394,3 +394,194 @@ footer {
 .soulcollectionBook2 {
     background-image: url("../images/design_pieces/campaigns/soul_collection/soulcollection_book2.jpg");
 }
+
+/* ILLUSTRATIONS */
+/* REALISTIC AND CARTTONY */
+.illustrationTown, .illistrationCastle, .illustrationHalloween, .illustrationTheater, .illustrationFish {
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 300px;
+    float: left;
+    clear: both;
+    margin-left: 25px;
+    margin-bottom: 20px;
+}
+
+.illustrationTown {
+    background-image: url("../images/design_pieces/illustrations/general/illustration_cartoonTown.png");
+}
+
+.illistrationCastle {
+    background-image: url("../images/design_pieces/illustrations/general/illustration_castle.png");
+}
+
+.illustrationHalloween {
+    background-image: url("../images/design_pieces/illustrations/general/illustration_halloween.jpg");
+}
+
+.illustrationTheater {
+    background-image: url("../images/design_pieces/illustrations/general/illustration_theater.png");
+}
+
+.illustrationFish {
+    background-image: url("../images/design_pieces/illustrations/general/illustration_fish.png");
+}
+
+.illustrationJimBeam, .illustrationSingleFlower, .illustrationTulips, .illustrationRose {
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 600px;
+    float: left;
+    clear: both;
+    margin-bottom: 20px;
+}
+
+.illustrationSingleFlower {
+    background-image: url("../images/design_pieces/illustrations/general/illustration_singleFlower.png");
+}
+
+.illustrationRose {
+    background-image: url("../images/design_pieces/illustrations/general/illustration_rose.png");
+}
+
+.illustrationTulips {
+    background-image: url("../images/design_pieces/illustrations/general/illustration_tulips.png");
+}
+
+.illustrationJimBeam {
+    background-image: url("../images/design_pieces/illustrations/general/illustration_jimBeam.png");
+}
+
+.illustrationComputer {
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 600px;
+    float: left;
+    clear: both;
+    margin-left: 25px;
+    margin-bottom: 20px;
+    background-image: url("../images/design_pieces/illustrations/general/illustration_computer.png");
+}
+
+.illustrationMoon, .illustrationSun {
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 200px;
+    float: left;
+    margin-left: 25px;
+    margin-bottom: 20px;
+}
+
+.illustrationMoon {
+    background-image: url("../images/design_pieces/illustrations/general/illustration_moon.png");
+}
+
+.illustrationSun {
+    background-image: url("../images/design_pieces/illustrations/general/illustration_sun.png");
+}
+
+.illustrationPencil {
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 200px;
+    float: left;
+    margin-left: 180px;
+    margin-bottom: 20px;
+    clear: both;
+    background-image: url("../images/design_pieces/illustrations/general/illustration_pencil.png");
+}
+
+.illustrationStreetSign {
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 350px;
+    float: left;
+    margin-left: 90px;
+    margin-bottom: 20px;
+    clear: both;
+    background-image: url("../images/design_pieces/illustrations/general/illustration_streetSign.png");
+}
+
+/* SCOOBY DOO */
+.scoobyLogo {
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 350px;
+    float: left;
+    margin-left: 90px;
+    margin-bottom: 20px;
+    clear: both;
+    background-image: url("../images/design_pieces/illustrations/scoobydoo/scooby_logo.png");
+}
+
+.scoobyFull, .shaggyFull, .fredFull, .velmaFull, .daphneFull {
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 590px;
+    float: left;
+    margin-bottom: 20px;
+    clear: both;
+}
+
+.scoobyFull {
+    background-image: url("../images/design_pieces/illustrations/scoobydoo/scooby_scoobyFull.png");
+}
+
+.shaggyFull {
+    background-image: url("../images/design_pieces/illustrations/scoobydoo/scooby_shaggyFull.png");
+}
+
+.fredFull {
+    background-image: url("../images/design_pieces/illustrations/scoobydoo/scooby_fredFull.png");
+}
+
+.daphneFull {
+    background-image: url("../images/design_pieces/illustrations/scoobydoo/scooby_daphneFull.png");
+}
+
+.velmaFull {
+    background-image: url("../images/design_pieces/illustrations/scoobydoo/scooby_velmaFull.png");
+}
+
+.shaggyHalf, .fredHalf, .velmaHalf, .daphneHalf {
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 390px;
+    float: left;
+    margin-bottom: 20px;
+    clear: both;
+}
+.scoobyHalf {
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 450px;
+    float: left;
+    margin-bottom: 20px;
+    clear: both;
+    background-image: url("../images/design_pieces/illustrations/scoobydoo/scooby_scoobyHalf.png");
+}
+.shaggyHalf {
+    background-image: url("../images/design_pieces/illustrations/scoobydoo/scooby_shaggyHalf.png");
+}
+
+.fredHalf {
+    background-image: url("../images/design_pieces/illustrations/scoobydoo/scooby_freddyHalf.png");
+}
+
+.daphneHalf {
+    background-image: url("../images/design_pieces/illustrations/scoobydoo/scooby_daphneHalf.png");
+}
+
+.velmaHalf {
+    background-image: url("../images/design_pieces/illustrations/scoobydoo/scooby_velmaHalf.png");
+}
+
+.mysteryMachine {
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 340px;
+    float: left;
+    margin-bottom: 20px;
+    clear: both;
+    background-image: url("../images/design_pieces/illustrations/scoobydoo/scooby_mysterymachine.png");
+}
