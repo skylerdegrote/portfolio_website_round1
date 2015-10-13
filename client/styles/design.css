@@ -149,6 +149,7 @@ footer {
     float: left;
     clear: both;
     margin-left: 25px;
+    background-image: url("../images/design_pieces/branding/wakey_wakey/wakey_cartoon.png");
 }
 .wakeyCup {
     background-size: 100%;
