@@ -4,7 +4,5 @@
 /* associated to the development.html page */
 
 $(document).ready(function() {
-    $("body").on("click", ".proj1", function () {
-        alert("design piece works")
-    });
+
 });

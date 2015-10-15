@@ -74,6 +74,7 @@ footer {
 .back {
     background-color: rgb(189, 193, 193);
     border: 10px solid #691814;
+    border-radius: 20px;
 }
 
 #navbar {
@@ -127,3 +128,4 @@ footer {
     margin-left:10px;
     max-height: 80px;
 }
+

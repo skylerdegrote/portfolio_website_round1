@@ -6,7 +6,24 @@
     margin-bottom: 100px;
     min-height: 320px;
 }
+#docentMainPage, #rocketMainPage, #fruitMainPage {
+    min-height: 240px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 
-.proj1 div{
-    min-height: 200px;
+#docentMainPage {
+    background-image: url("../images/dev_pieces/docent/docent_MainView.png");
+}
+
+#rocketMainPage {
+    background-image: url("../images/dev_pieces/rocket/rocket_MainView.png");
+}
+
+#fruitMainPage {
+    background-image: url("../images/dev_pieces/fruit/fruit_mainView.png");
+}
+
+.description {
+    min-height: 240px;
 }
