@@ -33,7 +33,7 @@ a {
 .objective img, .education img, .prime img, .workExperience img, .software img, .contact img, .accomplishments img, .extraActivities img {
     background-size: cover;
     height: 50px;
-    margin: 20px;
+    margin: 17px;
     float: left;
     clear: left;
 }
@@ -47,17 +47,17 @@ a {
 }
 
 .education {
-    height: 400px;
+    height: 450px;
 }
 
 
 
 .prime {
-    height: 450px;
+    height: 250px;
 }
 
 .workExperience {
-    height: 450px;
+    height: 300px;
 }
 
 .workExperience h4 {
@@ -83,17 +83,24 @@ hr {
 }
 
 .software {
-    height: 850px;
+    height: 700px;
 }
 
 .contact {
-    height: 400px;
+    height: 450px;
 }
 
 .accomplishments {
-    height: 150px;
+    height: 300px;
 }
 
 .extraActivities {
     height: 300px;
+}
+
+p {
+    margin-top:5px;
+}
+.extra {
+    margin-top:10px;
 }
