@@ -1,5 +1,26 @@
 /* associated to the resume.html page */
 
+
+h5 {
+    font-size: 20px;
+    margin-top: 30px;
+}
+
+h6 {
+    font-size: 15px;
+    float: left;
+    clear: right;
+    padding-top: 20px;
+}
+
+a {
+    color: black;
+}
+
+.back {
+    cursor: auto;
+}
+
 #resume {
     margin-top: 250px;
     margin-bottom: 100px;
@@ -8,6 +29,17 @@
 
 .objective, .education, .prime, .workExperience, .software, .contact, .accomplishments, .extraActivities {
     min-height: 100px;
+}
+.objective img, .education img, .prime img, .workExperience img, .software img, .contact img, .accomplishments img, .extraActivities img {
+    background-size: cover;
+    height: 50px;
+    margin: 20px;
+    float: left;
+    clear: left;
+}
+
+.contact img {
+    cursor: pointer;
 }
 
 .objective {
@@ -18,12 +50,36 @@
     height: 400px;
 }
 
+
+
 .prime {
     height: 450px;
 }
 
 .workExperience {
     height: 450px;
+}
+
+.workExperience h4 {
+    margin-top:30px;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid black;
+    margin: 2em 0;
+    padding: 0;
+}
+
+.workImg {
+    background-image: url("../images/resume/fall_resume_work_light.png");
+    height: 77px;
+    width: 87px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 30px;
 }
 
 .software {

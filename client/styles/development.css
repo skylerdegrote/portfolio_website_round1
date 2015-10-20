@@ -12,16 +12,74 @@
     background-size: cover;
 }
 
-#docentMainPage {
-    background-image: url("../images/dev_pieces/docent/docent_MainView.png");
+.rocketMainPage, .rocketCustomized, .rocketInfoBox {
+    min-height: 280px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    overflow: scroll;
 }
 
-#rocketMainPage {
+.rocketCustomized {
+    background-image: url("../images/dev_pieces/rocket/rocket_customizedRocket.png");
+}
+
+.rocketInfoBox {
+    background-image: url("../images/dev_pieces/rocket/rocket_infoBox.png");
+}
+
+.rocketMainPage, #rocketMainPage {
     background-image: url("../images/dev_pieces/rocket/rocket_MainView.png");
+}
+
+.docentMainPage, .docentMainSearch, .docentMainDropDown, .docentMainExampleModal, .docentAdminPage, .docentAdminNew, .docentAdminEdit, .docentAdminDelete {
+    min-height: 280px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    overflow: scroll;
+}
+
+.docentMainSearch {
+    background-image: url("../images/dev_pieces/docent/docent_MainSearch.png");
+}
+
+.docentMainDropDown {
+    background-image: url("../images/dev_pieces/docent/docent_MainDropDown.png");
+}
+
+.docentMainExampleModal {
+    background-image: url("../images/dev_pieces/docent/docent_MainExampleModal.png");
+}
+
+.docentAdminPage {
+    background-image: url("../images/dev_pieces/docent/docent_AdminPage.png");
+}
+
+.docentAdminNew {
+    background-image: url("../images/dev_pieces/docent/docent_AdminNew.png");
+}
+
+.docentAdminEdit {
+    background-image: url("../images/dev_pieces/docent/docent_AdminEdit.png");
+}
+
+.docentAdminDelete {
+    background-image: url("../images/dev_pieces/docent/docent_AdminDelete.png");
+}
+
+.docentMainPage, #docentMainPage {
+    background-image: url("../images/dev_pieces/docent/docent_MainView.png");
 }
 
 #fruitMainPage {
     background-image: url("../images/dev_pieces/fruit/fruit_mainView.png");
+}
+
+.fruitMainPage {
+    background-image: url("../images/dev_pieces/fruit/fruit_mainView.png");
+    min-height: 280px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    overflow: scroll;
 }
 
 .description {

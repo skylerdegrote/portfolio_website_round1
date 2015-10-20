@@ -63,6 +63,7 @@ footer {
     position: absolute;
     width: 100%;
     color: #000;
+    text-align: center;
 }
 
 .activePage {
@@ -75,6 +76,7 @@ footer {
     background-color: rgb(189, 193, 193);
     border: 10px solid #691814;
     border-radius: 20px;
+    cursor: pointer;
 }
 
 #navbar {
