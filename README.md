@@ -86,7 +86,7 @@ I was a **Freelance Advertising Consultant** from **December 2012 to December 20
 * On the spot design with the client
 
 #### Holiday Inn Hotel and Suites
-I was a **Water Park Attendant** from **August 2007 to August 2008 <br>and I was a **Lifeguard** from August 2008 to December 2011**
+I was a **Water Park Attendant** from **August 2007 to August 2008** <br>and I was a **Lifeguard** from August 2008 to December 2011**
 <br>As a Water Park Attendant I supervised the water slide tower and the arcade, ensuring that the guests were safe and following rules
 <br>As a Lifeguard I kept guests safe and provided first aid services when needed
 <br>The skills I learned and used in this job were
