@@ -2,6 +2,7 @@
 #### Featuring design and development portfolio pieces
 My Design portfolio is mainly from my four year degree in advertising and graphic communications. I have worked on it since, however.
 The most recent piece is the Scooby Doo Illustrations, inspired by the Scooby doo Cartoons.
+<br><br>
 My Development portfolio is mainly from my time at Prime Digital Academy. Prime is an 18 week accelerated program for software engineering.
 I graduated with 20 other people on October 2, 2015. From this experience I have skills in the full MEAN stack of development languages.
 - - - -
@@ -22,8 +23,14 @@ to learn as much as I can while searching for a career in Software Engineering.
 
 - - - -
 ## What I'm looking for
+I'm looking for a career with a company that allows and encourages growth and learning as developer. I am looking for the culture of
+collaboration and the need to learn from coworkers. I love learning and I love working on a team. So a company that can give me both
+of those would be the ideal company for me to work at.
 
-
+- - - -
+## On the Development Page
+- - - -
+## On the Design Page
 - - - -
 ## On the Resume Page
 I've included everything from how to contact me to what my extra curricular activities in college were. The pieces that I believe are the
