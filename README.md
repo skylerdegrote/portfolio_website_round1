@@ -18,9 +18,9 @@ All of the graphics on this page were created by me as well in Adobe Illustrator
 I wanted to create a clean look for my website, so I didn't include any of the details pertaining to my work experience.
 
 ##### Benihana
-I was a **Hostess** from **January 2015 to May 2015**
-I provided great customer service by seating tables, answering questions, answering phones, creating reservations, and fulfilling to-go orders.
-The skills I learned and used in this job were
+<br>I was a **Hostess** from **January 2015 to May 2015**
+<br>I provided great customer service by seating tables, answering questions, answering phones, creating reservations, and fulfilling to-go orders.
+<br>The skills I learned and used in this job were
 * Customer Service
 * Problem Solving
 * Trainer
@@ -28,9 +28,9 @@ The skills I learned and used in this job were
 * Teamwork
 
 ##### Lifetouch Studio Photography
-I was a **Studio Photographer** from **October 2014 to February 2015**
-I created artistic layouts both in the studio with the customers, and at the selling table for the customers.
-The skills I learned and used in this job were
+<br>I was a **Studio Photographer** from **October 2014 to February 2015**
+<br>I created artistic layouts both in the studio with the customers, and at the selling table for the customers.
+<br>The skills I learned and used in this job were
 * Client Relations
 * Artistic Design
 * Group Coordination
