@@ -8,14 +8,37 @@ I graduated with 20 other people on October 2, 2015. From this experience I have
 ## On the Resume Page
 I've included everything from how to contact me to what my extra curricular activities in college were. The pieces that I believe are the
 most important are
-1. What my experience was like at Prime Digital Academy
-2. What I am looking for in a career
-3. My software knowledge
-4. How to contact me
+    1.  What my experience was like at Prime Digital Academy
+    2.  What I am looking for in a career
+    3.  My software knowledge
+    4.  How to contact me
 
 All of the graphics on this page were created by me as well in Adobe Illustrator CC.
 ### The work experience in detail
 I wanted to create a clean look for my website, so I didn't include any of the details pertaining to my work experience.
 
 ##### Benihana
-I was a _Hostess_ from _January 2015 to May 2015_
+I was a **Hostess** from **January 2015 to May 2015**
+I provided great customer service by seating tables, answering questions, answering phones, creating reservations, and fulfilling to-go orders.
+The skills I learned and used in this job were
+* Customer Service
+* Problem Solving
+* Trainer
+* Organization
+* Teamwork
+
+##### Lifetouch Studio Photography
+I was a **Studio Photographer** from **October 2014 to February 2015**
+I created artistic layouts both in the studio with the customers, and at the selling table for the customers.
+The skills I learned and used in this job were
+* Client Relations
+* Artistic Design
+* Group Coordination
+
+##### Lifetouch School Photography
+I was a **Seasonal School Photographer** from **August 2014 to October 2014**
+I captured yearbook photos for students and faculty at multiple schools throughout Minnesota.
+The skills I learned and used in this job were
+* Teamwork
+* Team Leading
+* Focus
