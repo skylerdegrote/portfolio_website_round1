@@ -18,7 +18,7 @@ All of the graphics on this page were created by me as well in Adobe Illustrator
 I wanted to create a clean look for my website, so I didn't include any of the details pertaining to my work experience.
 
 ##### Benihana
-<br>I was a **Hostess** from **January 2015 to May 2015**
+I was a **Hostess** from **January 2015 to May 2015**
 <br>I provided great customer service by seating tables, answering questions, answering phones, creating reservations, and fulfilling to-go orders.
 <br>The skills I learned and used in this job were
 * Customer Service
@@ -28,7 +28,7 @@ I wanted to create a clean look for my website, so I didn't include any of the d
 * Teamwork
 
 ##### Lifetouch Studio Photography
-<br>I was a **Studio Photographer** from **October 2014 to February 2015**
+I was a **Studio Photographer** from **October 2014 to February 2015**
 <br>I created artistic layouts both in the studio with the customers, and at the selling table for the customers.
 <br>The skills I learned and used in this job were
 * Client Relations
@@ -37,31 +37,31 @@ I wanted to create a clean look for my website, so I didn't include any of the d
 
 ##### Lifetouch School Photography
 I was a **Seasonal School Photographer** from **August 2014 to October 2014**
-I captured yearbook photos for students and faculty at multiple schools throughout Minnesota.
-The skills I learned and used in this job were
+<br>I captured yearbook photos for students and faculty at multiple schools throughout Minnesota.
+<br>The skills I learned and used in this job were
 * Teamwork
 * Team Leading
 * Focus
 
 ##### RockyBits Software
 I was a **Freelance Graphic and Web Designer** from **May 2014 to September 2014**
-I designed the identity set for the start up company and created web mock-ups for the website, and banner ads.
-The skills I learned and used in this job were
+<br>I designed the identity set for the start up company and created web mock-ups for the website, and banner ads.
+<br>The skills I learned and used in this job were
 * Client Relations
 * Requirements Gathering
 * Iterative and Collaborative Design
 
 ##### Office Max
 I was a **Store Associate** from **August 2013 to August 2014**
-I provided great customer service and stocked shelves, taking pride in the appearance of the store
-The skills I learned and used in this job were
+<br>I provided great customer service and stocked shelves, taking pride in the appearance of the store
+<br>The skills I learned and used in this job were
 * Customer Service
 * Organization
 
 ##### Minnesota State University Moorhead
 I was a **Teacher Assistant** from **January 2012 to May 2014**
-I answered questions and provided help to students in and out of the classroom.
-The skills I learned and used in this job were
+<br>I answered questions and provided help to students in and out of the classroom.
+<br>The skills I learned and used in this job were
 * Communications
 * Problem Solving
 * Research
