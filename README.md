@@ -6,7 +6,17 @@ My Development portfolio is mainly from my time at Prime Digital Academy. Prime 
 I graduated with 20 other people on October 2, 2015. From this experience I have skills in the full MEAN stack of development languages.
 - - - -
 ## My Time at Prime Digital Academy
-
+I enjoyed every moment I spent at Prime Digital Academy. The environment and the atmosphere was very welcoming and supportive. The people, including both
+students and staff members, were a great group to be around every day.
+<br>
+I also learned a lot at Prime. Not only in Software Engineering languages, but also in public speaking and teamwork. At the beginning of the program I would
+get so nervous speaking in front of a the small group of 20 people. Mid-way through I gave an icebreaker speech voluntarily at Toastmasters. At the end of the
+program, not only did I speak in front of a giant group for my Client Project Presentation, but I also voluntarily spoke at Graduation on October 2, 2015.
+I also learned how I work with teams and how to interact with different personality types.
+<br>
+Prime let me accomplish a lot throughout the program. I feel confident in my presentation and public speaking skills as well as in my coding skills for the MEAN
+stack development languages. I've been continuing the learning process via [Lynda.com](http://www.lynda.com/) and other resources given to me by Prime. I plan
+to learn as much as I can while searching for a career in Software Engineering.
 
 
 
@@ -86,7 +96,7 @@ I was a **Freelance Advertising Consultant** from **December 2012 to December 20
 * On the spot design with the client
 
 #### Holiday Inn Hotel and Suites
-I was a **Water Park Attendant** from **August 2007 to August 2008** <br>and I was a **Lifeguard** from August 2008 to December 2011**
+I was a **Water Park Attendant** from **August 2007 to August 2008** <br>and I was a **Lifeguard** from **August 2008 to December 2011**
 <br>As a Water Park Attendant I supervised the water slide tower and the arcade, ensuring that the guests were safe and following rules
 <br>As a Lifeguard I kept guests safe and provided first aid services when needed
 <br>The skills I learned and used in this job were
