@@ -23,7 +23,8 @@ most important are
 
 All of the graphics on this page were created by me as well in Adobe Illustrator CC.
 ### The work experience in detail
-I wanted to create a clean look for my website, so I didn't include any of the details pertaining to my work experience.
+I wanted to create a clean look for my website, so I didn't include any of the details pertaining to my work experience. If you would like
+to know about what I did in each position at each job, here it is:
 
 #### Benihana
 I was a **Hostess** from **January 2015 to May 2015**
