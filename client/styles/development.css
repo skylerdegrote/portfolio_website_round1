@@ -6,14 +6,20 @@
     margin-bottom: 100px;
     min-height: 320px;
 }
-#docentMainPage, #rocketMainPage, #fruitMainPage {
-    min-height: 240px;
+#docentMainPage, #fruitMainPage {
+    min-height: 270px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#rocketMainPage {
+    min-height: 290px;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .rocketMainPage, .rocketCustomized, .rocketInfoBox {
-    min-height: 280px;
+    min-height: 290px;
     background-repeat: no-repeat;
     background-size: 100%;
     overflow: scroll;
@@ -83,5 +89,19 @@
 }
 
 .description {
-    min-height: 240px;
+    min-height: 270px;
+}
+
+.popupImg {
+    height: 58px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url("../images/dev_pieces/popupIcon.png");
+    margin-bottom: 10px;
+    display: inline-block;
+}
+
+.viewMore {
+    display: inline-block;
+    padding-bottom: 20px;
 }
