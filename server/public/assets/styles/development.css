@@ -1,1 +1,111 @@
 /* associated to the development.html page */
+
+
+#devportfolio {
+    margin-top: 250px;
+    margin-bottom: 100px;
+    min-height: 320px;
+}
+#docentMainPage {
+    min-height: 285px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#fruitMainPage {
+    min-height: 270px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#rocketMainPage {
+    min-height: 305px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.rocketMainPage, .rocketCustomized, .rocketInfoBox {
+    min-height: 290px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    overflow: scroll;
+}
+
+.rocketCustomized {
+    background-image: url("../images/dev_pieces/rocket/rocket_customizedRocket.png");
+}
+
+.rocketInfoBox {
+    background-image: url("../images/dev_pieces/rocket/rocket_infoBox.png");
+}
+
+.rocketMainPage, #rocketMainPage {
+    background-image: url("../images/dev_pieces/rocket/rocket_MainView.png");
+}
+
+.docentMainPage, .docentMainSearch, .docentMainDropDown, .docentMainExampleModal, .docentAdminPage, .docentAdminNew, .docentAdminEdit, .docentAdminDelete {
+    min-height: 280px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    overflow: scroll;
+}
+
+.docentMainSearch {
+    background-image: url("../images/dev_pieces/docent/docent_MainSearch.png");
+}
+
+.docentMainDropDown {
+    background-image: url("../images/dev_pieces/docent/docent_MainDropDown.png");
+}
+
+.docentMainExampleModal {
+    background-image: url("../images/dev_pieces/docent/docent_MainExampleModal.png");
+}
+
+.docentAdminPage {
+    background-image: url("../images/dev_pieces/docent/docent_AdminPage.png");
+}
+
+.docentAdminNew {
+    background-image: url("../images/dev_pieces/docent/docent_AdminNew.png");
+}
+
+.docentAdminEdit {
+    background-image: url("../images/dev_pieces/docent/docent_AdminEdit.png");
+}
+
+.docentAdminDelete {
+    background-image: url("../images/dev_pieces/docent/docent_AdminDelete.png");
+}
+
+.docentMainPage, #docentMainPage {
+    background-image: url("../images/dev_pieces/docent/docent_MainView.png");
+}
+
+#fruitMainPage {
+    background-image: url("../images/dev_pieces/fruit/fruit_mainView.png");
+}
+
+.fruitMainPage {
+    background-image: url("../images/dev_pieces/fruit/fruit_mainView.png");
+    min-height: 280px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    overflow: scroll;
+}
+
+.description {
+    min-height: 270px;
+}
+
+.popupImg {
+    height: 58px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url("../images/dev_pieces/popupIcon.png");
+    margin-bottom: 10px;
+    display: inline-block;
+}
+
+.viewMore {
+    display: inline-block;
+    padding-bottom: 20px;
+}

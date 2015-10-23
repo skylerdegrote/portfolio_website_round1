@@ -1,1 +1,590 @@
 /* associated to the design.html page */
+
+footer {
+    bottom:0;
+}
+
+#branding1 h4, #branding2 h4, #branding3 h4, #campaigns1 h4, #campaigns2 h4, #illustrations1 h4, #illustrations2 h4 {
+    clear: both;
+    padding-top: 30px;
+}
+
+.designDescription {
+    max-width: 540px;
+}
+
+#portfolio {
+    margin-top: 200px;
+    margin-bottom: 80px;
+}
+
+.designPiece {
+    min-height: 250px;
+    margin-top: 50px;
+}
+
+
+.modal {
+    overflow: scroll;
+    max-height: 700px;
+}
+
+.placeholderLogo {
+    background-image: url("../images/placeholder/images_logo_placeholder.png");
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    background-size: cover;
+    float: left;
+    margin: 20px;
+}
+
+.placeholderImage {
+    display: inline-block;
+    background-image: url("../images/placeholder/images_modal_placeholder.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 350px;
+    width: 530px;
+    float: left;
+    clear: both;
+}
+
+.modal-title {
+    display: inline-block;
+    font-size: 28px;
+    margin: 20px;
+}
+
+.close {
+    margin: 20px;
+}
+
+/* modal icons */
+
+
+
+
+
+
+/* design portfolio pieces images */
+/* FLIPPN FLOWERS */
+.flippnLogo, .flippnLove, .flippnBillboard, .flippnHill, .flippnCare{
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 350px;
+    width: 530px;
+    clear: both;
+}
+
+.flippnLogo {
+    background-image: url("../images/design_pieces/branding/flippn_flowers/flippn_logo.png");
+}
+
+.flippnLove {
+    background-image: url("../images/design_pieces/branding/flippn_flowers/flippn_love.png");
+}
+
+.flippnBillboard {
+    background-image: url("../images/design_pieces/branding/flippn_flowers/flippn_billboard.png");
+}
+
+.flippnHill {
+    background-image: url("../images/design_pieces/branding/flippn_flowers/flippn_hill.png");
+}
+
+.flippnCare {
+    background-image: url("../images/design_pieces/branding/flippn_flowers/flippn_cares.png");
+}
+
+/* WAKEY WAKEY */
+.wakeyOrangeLogo, .wakeyPeachLogo, .wakeyBrownLogo {
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 200px;
+    width: 530px;
+    float: left;
+    clear: both;
+    margin: 0;
+}
+
+.wakeyOrangeLogo {
+    background-image: url("../images/design_pieces/branding/wakey_wakey/wakey_orange_logo.png");
+}
+
+.wakeyPeachLogo {
+    background-image: url("../images/design_pieces/branding/wakey_wakey/wakey_peach_logo.png");
+}
+
+.wakeyBrownLogo {
+    background-image: url("../images/design_pieces/branding/wakey_wakey/wakey_brown_logo.png");
+}
+
+.wakeyBC {
+    background-size: 80%;
+    background-repeat: no-repeat;
+    height: 350px;
+    clear: both;
+    margin-left: 20px;
+    background-image: url("../images/design_pieces/branding/wakey_wakey/wakey_bc.png");
+}
+
+.wakeyLetterhead {
+    background-size: 80%;
+    background-repeat: no-repeat;
+    height: 650px;
+    clear: both;
+    margin-left: 20px;
+    background-image: url("../images/design_pieces/branding/wakey_wakey/wakey_letterhead.png");
+}
+
+.wakeyEnvelope {
+    background-size: 90%;
+    background-repeat: no-repeat;
+    height: 250px;
+    clear: both;
+    margin-left: 20px;
+    background-image: url("../images/design_pieces/branding/wakey_wakey/wakey_envelope.png");
+}
+
+.wakeyCartoon{
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 340px;
+    clear: both;
+    margin-left: 25px;
+    background-image: url("../images/design_pieces/branding/wakey_wakey/wakey_cartoon.png");
+}
+.wakeyCup {
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 450px;
+    clear: both;
+    background-image: url("../images/design_pieces/branding/wakey_wakey/wakey_cartoon.png");
+
+}
+.wakeyLatte, .wakeyMacciatto, .wakeyMocha, .wakeyEspresso  {
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 620px;
+    clear: both;
+}
+
+.wakeyCup {
+    background-image: url("../images/design_pieces/branding/wakey_wakey/wakey_cup.png");
+}
+
+.wakeyLatte {
+    background-image: url("../images/design_pieces/branding/wakey_wakey/wakey_latte.png");
+}
+
+.wakeyMacciatto {
+    background-image: url("../images/design_pieces/branding/wakey_wakey/wakey_macciatto.png");
+}
+
+.wakeyMocha {
+    background-image: url("../images/design_pieces/branding/wakey_wakey/wakey_mocha.png");
+}
+
+.wakeyEspresso {
+    background-image: url("../images/design_pieces/branding/wakey_wakey/wakey_espresso.png");
+}
+
+/* AD CLUB */
+
+/*.adclubLogoDark,. adclubLogoLight {*/
+
+/*}*/
+
+.adclubLogoDark, .adclubLogoLight, .adclubFacebookCover {
+    height: 200px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    margin-left: 25px;
+    clear: both;
+}
+
+.adclubLogoDark {
+    background-image: url("../images/design_pieces/branding/ad_club/adclub_logo_dark.png");
+}
+
+.adclubLogoLight {
+    background-image: url("../images/design_pieces/branding/ad_club/adclub_logo_light.png");
+}
+
+.adclubFacebookCover {
+    background-image: url("../images/design_pieces/branding/ad_club/adclub_facebook_coverphoto.png");
+}
+
+.adclubBilliardsAd {
+    background-image: url("../images/design_pieces/branding/ad_club/adclub_billiardsAd.png");
+    height: 640px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    margin-left: 25px;
+    clear: both;
+}
+
+
+/* campaigns */
+/* MARY KAY COSMETICS */
+.maryLogo {
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 140px;
+    float: left;
+    clear: both;
+    margin-left: 25px;
+}
+
+.maryAd1, .maryAd2, .maryAd3, .maryAd4 {
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 640px;
+    float: left;
+    clear: both;
+    margin-left: 25px;
+}
+.maryLogo {
+    background-image: url("../images/design_pieces/campaigns/mary_kay/mary_campaignLogo.png");
+}
+
+.maryAd1 {
+    background-image: url("../images/design_pieces/campaigns/mary_kay/mary_ad1.png");
+}
+
+.maryAd2 {
+    background-image: url("../images/design_pieces/campaigns/mary_kay/mary_ad2.png");
+}
+
+.maryAd3 {
+    background-image: url("../images/design_pieces/campaigns/mary_kay/mary_ad3.png");
+}
+
+.maryAd4 {
+    background-image: url("../images/design_pieces/campaigns/mary_kay/mary_ad4.png");
+}
+
+.maryFlyer {
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 240px;
+    float: left;
+    clear: both;
+    margin-left: 25px;
+    background-image: url("../images/design_pieces/campaigns/mary_kay/mary_flyerTrifold.png");
+}
+
+.maryEyeliner {
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 40px;
+    float: left;
+    clear: both;
+    margin-left: 25px;
+    background-image: url("../images/design_pieces/campaigns/mary_kay/mary_eyeliner.png");
+}
+
+.maryCompactCase {
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 220px;
+    float: left;
+    clear: both;
+    margin-left: 25px;
+    background-image: url("../images/design_pieces/campaigns/mary_kay/mary_compactCase.png");
+}
+
+.maryFragrance {
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 900px;
+    float: left;
+    clear: both;
+    margin-left: 25px;
+    background-image: url("../images/design_pieces/campaigns/mary_kay/mary_fragrance.png");
+}
+.maryMascara {
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 600px;
+    float: left;
+    clear: both;
+    margin-left: 25px;
+    background-image: url("../images/design_pieces/campaigns/mary_kay/mary_mascara.png");
+}
+
+.maryLipgloss {
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 360px;
+    float: left;
+    clear: both;
+    margin-left: 25px;
+    background-image: url("../images/design_pieces/campaigns/mary_kay/mary_lipgloss.png");
+}
+.marySkinCare {
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 400px;
+    float: left;
+    clear: both;
+    margin-left: 25px;
+    background-image: url("../images/design_pieces/campaigns/mary_kay/mary_skinCare.png");
+}
+
+/* ROCKY BITS SOFTWARE */
+.rockyLogoLight, .rockyLogoDark {
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 150px;
+    float: left;
+    clear: both;
+    margin-left: 25px;
+}
+
+.rockyLogoLight {
+    background-image: url("../images/design_pieces/campaigns/rocky_bits/rocky_logoLight.png");
+}
+.rockyLogoDark{
+    background-image: url("../images/design_pieces/campaigns/rocky_bits/rocky_logoDark.png");
+}
+
+.rockyBCBack, .rockyBCFront {
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 280px;
+    float: left;
+    clear: both;
+    margin-left: 25px;
+    margin-bottom: 20px;
+    border: 1px solid black;
+}
+
+.rockyBCBack {
+    background-image: url("../images/design_pieces/campaigns/rocky_bits/rocky_bcBack.png");
+}
+
+.rockyBCFront {
+    background-image: url("../images/design_pieces/campaigns/rocky_bits/rocky_bcFront.png");
+}
+
+.rockyBannerAd {
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 70px;
+    float: left;
+    clear: both;
+    margin-left: 25px;
+    background-image: url("../images/design_pieces/campaigns/rocky_bits/rocky_bannerAd.png");
+}
+
+/* SOUL COLLECTION */
+.soulcollectionBook1, .soulcollectionBook2 {
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 700px;
+    float: left;
+    clear: both;
+    margin-left: 25px;
+    margin-bottom: 20px;
+}
+
+.soulcollectionBook1 {
+    background-image: url("../images/design_pieces/campaigns/soul_collection/soulcollection_book1.jpg");
+}
+
+.soulcollectionBook2 {
+    background-image: url("../images/design_pieces/campaigns/soul_collection/soulcollection_book2.jpg");
+}
+
+/* ILLUSTRATIONS */
+/* REALISTIC AND CARTTONY */
+.illustrationTown, .illistrationCastle, .illustrationHalloween, .illustrationTheater, .illustrationFish {
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 300px;
+    float: left;
+    clear: both;
+    margin-left: 25px;
+    margin-bottom: 20px;
+}
+
+.illustrationTown {
+    background-image: url("../images/design_pieces/illustrations/general/illustration_cartoonTown.png");
+}
+
+.illistrationCastle {
+    background-image: url("../images/design_pieces/illustrations/general/illustration_castle.png");
+}
+
+.illustrationHalloween {
+    background-image: url("../images/design_pieces/illustrations/general/illustration_halloween.jpg");
+}
+
+.illustrationTheater {
+    background-image: url("../images/design_pieces/illustrations/general/illustration_theater.png");
+}
+
+.illustrationFish {
+    background-image: url("../images/design_pieces/illustrations/general/illustration_fish.png");
+}
+
+.illustrationJimBeam, .illustrationSingleFlower, .illustrationTulips, .illustrationRose {
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 600px;
+    float: left;
+    clear: both;
+    margin-bottom: 20px;
+}
+
+.illustrationSingleFlower {
+    background-image: url("../images/design_pieces/illustrations/general/illustration_singleFlower.png");
+}
+
+.illustrationRose {
+    background-image: url("../images/design_pieces/illustrations/general/illustration_rose.png");
+}
+
+.illustrationTulips {
+    background-image: url("../images/design_pieces/illustrations/general/illustration_tulips.png");
+}
+
+.illustrationJimBeam {
+    background-image: url("../images/design_pieces/illustrations/general/illustration_jimBeam.png");
+}
+
+.illustrationComputer {
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 600px;
+    float: left;
+    clear: both;
+    margin-left: 25px;
+    margin-bottom: 20px;
+    background-image: url("../images/design_pieces/illustrations/general/illustration_computer.png");
+}
+
+.illustrationMoon, .illustrationSun {
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 200px;
+    float: left;
+    margin-left: 25px;
+    margin-bottom: 20px;
+}
+
+.illustrationMoon {
+    background-image: url("../images/design_pieces/illustrations/general/illustration_moon.png");
+}
+
+.illustrationSun {
+    background-image: url("../images/design_pieces/illustrations/general/illustration_sun.png");
+}
+
+.illustrationPencil {
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 200px;
+    float: left;
+    margin-left: 180px;
+    margin-bottom: 20px;
+    clear: both;
+    background-image: url("../images/design_pieces/illustrations/general/illustration_pencil.png");
+}
+
+.illustrationStreetSign {
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 350px;
+    float: left;
+    margin-left: 90px;
+    margin-bottom: 20px;
+    clear: both;
+    background-image: url("../images/design_pieces/illustrations/general/illustration_streetSign.png");
+}
+
+/* SCOOBY DOO */
+.scoobyLogo {
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 350px;
+    float: left;
+    margin-left: 90px;
+    margin-bottom: 20px;
+    clear: both;
+    background-image: url("../images/design_pieces/illustrations/scoobydoo/scooby_logo.png");
+}
+
+.scoobyFull, .shaggyFull, .fredFull, .velmaFull, .daphneFull {
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 590px;
+    float: left;
+    margin-bottom: 20px;
+    clear: both;
+}
+
+.scoobyFull {
+    background-image: url("../images/design_pieces/illustrations/scoobydoo/scooby_scoobyFull.png");
+}
+
+.shaggyFull {
+    background-image: url("../images/design_pieces/illustrations/scoobydoo/scooby_shaggyFull.png");
+}
+
+.fredFull {
+    background-image: url("../images/design_pieces/illustrations/scoobydoo/scooby_fredFull.png");
+}
+
+.daphneFull {
+    background-image: url("../images/design_pieces/illustrations/scoobydoo/scooby_daphneFull.png");
+}
+
+.velmaFull {
+    background-image: url("../images/design_pieces/illustrations/scoobydoo/scooby_velmaFull.png");
+}
+
+.shaggyHalf, .fredHalf, .velmaHalf, .daphneHalf {
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 390px;
+    float: left;
+    margin-bottom: 20px;
+    clear: both;
+}
+.scoobyHalf {
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 450px;
+    float: left;
+    margin-bottom: 20px;
+    clear: both;
+    background-image: url("../images/design_pieces/illustrations/scoobydoo/scooby_scoobyHalf.png");
+}
+.shaggyHalf {
+    background-image: url("../images/design_pieces/illustrations/scoobydoo/scooby_shaggyHalf.png");
+}
+
+.fredHalf {
+    background-image: url("../images/design_pieces/illustrations/scoobydoo/scooby_freddyHalf.png");
+}
+
+.daphneHalf {
+    background-image: url("../images/design_pieces/illustrations/scoobydoo/scooby_daphneHalf.png");
+}
+
+.velmaHalf {
+    background-image: url("../images/design_pieces/illustrations/scoobydoo/scooby_velmaHalf.png");
+}
+
+.mysteryMachine {
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 340px;
+    float: left;
+    margin-bottom: 20px;
+    clear: both;
+    background-image: url("../images/design_pieces/illustrations/scoobydoo/scooby_mysterymachine.png");
+}

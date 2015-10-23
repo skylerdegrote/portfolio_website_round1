@@ -1,0 +1,133 @@
+/* all html files have this css */
+
+body {
+}
+
+body.fall {
+    background-color: #691814;
+    background-size: 100%;
+}
+
+p {
+    display: block;
+    clear: both;
+}
+
+h1 {
+    color: #000;
+    font-size: 70px;
+    text-align: center;
+    margin-top: 200px;
+}
+
+h3 {
+    color: #000;
+    font-size: 20px;
+    line-height: 150%;
+}
+
+
+
+h4 a{
+    color: #000;
+    font-size: 20px;
+    float: left;
+    margin: 50px;
+}
+
+h4 a:hover, h4 a:active {
+    text-decoration: underline;
+    font-weight: bold;
+    color: #000;
+}
+
+h5 {
+    color: #000;
+}
+
+h6 {
+    font-size: 14px;
+    text-align: center;
+    padding: 10px;
+}
+
+header {
+    position: absolute;
+    width: 100%;
+    top: 0;
+}
+
+footer {
+    background-color: #bdc1c1;
+    min-height: 50px;
+    position: absolute;
+    width: 100%;
+    color: #000;
+    text-align: center;
+}
+
+.activePage {
+    text-decoration: underline;
+    font-weight: bold;
+    color: #000;
+}
+
+.back {
+    background-color: rgb(189, 193, 193);
+    border: 10px solid #691814;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+#navbar {
+    height: 150px;
+    background-color: #bdc1c1;
+    margin-bottom:50px;
+}
+
+#github, #linkedin, #twitter {
+    background-color: #691814;
+    border: #691814 3px solid;
+    border-radius: 50px;
+    width: 100px;
+    height: 100px;
+    float: right;
+    background-size: cover;
+}
+
+#github {
+    position: absolute;
+    top: 100px;
+    right: 380px;
+    background-image: url("../images/logos/fall_githublogo.png");
+}
+
+#linkedin {
+    position: absolute;
+    top: 100px;
+    right: 240px;
+    background-image: url("../images/logos/fall_linkedinlogo.png");
+}
+
+#twitter {
+    position: absolute;
+    top: 100px;
+    right: 100px;
+    background-image: url("../images/logos/fall_twitterlogo.png");
+}
+
+/* replace bootstrap nav-tabs decoration */
+.nav, .nav-tabs{
+    text-decoration: none;
+    border-bottom: 1px solid lightgrey;
+    max-width: 580px;
+    overflow: hidden;
+}
+
+.modal-header {
+    border: none;
+    max-width: 580px;
+    margin-left:10px;
+    max-height: 80px;
+}
+

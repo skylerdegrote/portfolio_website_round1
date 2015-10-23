@@ -1,1 +1,133 @@
 /* associated to the resume.html page */
+
+h4 {
+    font-size: 15px;
+    padding: 0;
+    margin:0;
+}
+h5 {
+    font-size: 20px;
+    margin-top: 30px;
+}
+
+h6 {
+    font-size: 15px;
+    float: left;
+    clear: right;
+    padding-top: 20px;
+}
+
+p {
+margin-top:5px;
+}
+
+a {
+    color: black;
+}
+
+a:visited {
+    color:black;
+    text-decoration: none;
+}
+
+ul {
+    margin-top: 10px;
+}
+
+.back {
+    cursor: auto;
+}
+
+#resume {
+    margin-top: 250px;
+    margin-bottom: 100px;
+    min-height: 320px;
+}
+
+.objective, .education, .prime, .workExperience, .software, .contact, .accomplishments, .extraActivities {
+    min-height: 100px;
+}
+.objective img, .education img, .prime img, .workExperience img, .contact img, .accomplishments img, .extraActivities img {
+    background-size: cover;
+    height: 50px;
+    margin: 17px;
+    float: left;
+    clear: left;
+}
+
+.contact img {
+    cursor: pointer;
+}
+
+.objective {
+    height: 240px;
+}
+
+.education {
+    height: 450px;
+}
+
+
+
+.prime {
+    height: 300px;
+}
+
+.workExperience {
+    height: 300px;
+}
+
+.workExperience h4 {
+    margin-top:30px;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid black;
+    margin: 2em 0;
+    padding: 0;
+}
+
+.workImg {
+    background-image: url("../images/resume/fall_resume_work_light.png");
+    height: 77px;
+    width: 87px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 30px;
+}
+
+.software {
+    height: 750px;
+}
+
+.software img {
+    height: 200px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.contact {
+    height: 450px;
+}
+
+.accomplishments {
+    height: 300px;
+}
+
+.extraActivities {
+    height: 300px;
+}
+
+
+.extra {
+    margin-top:10px;
+}
+
+.accomplishments img, .accomplishments p {
+    display: inline-block;
+
+}
+

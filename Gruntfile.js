@@ -21,11 +21,8 @@ module.exports = function(grunt) {
             resumeJS: {
                 src: 'client/scripts/resume.js',
                 dest: 'server/public/assets/scripts/resume.min.js'
-            },
-            controllers:{
-                src: "client/scripts/controllers/controllers.js",
-                dest: "server/public/assets/scripts/controllers/controller.min.js"
             }
+
         },
         copy: {
             styles: {
@@ -35,7 +32,8 @@ module.exports = function(grunt) {
                     ["styles/home.css",
                      "styles/resume.css",
                      "styles/design.css",
-                     "styles/development.css"],
+                     "styles/development.css",
+                     "styles/general.css"],
 
                 dest: "server/public/assets/"
             },
