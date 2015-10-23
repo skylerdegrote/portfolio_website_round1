@@ -9,18 +9,6 @@ module.exports = function(grunt) {
             app: {
                 src: 'client/scripts/app.js',
                 dest: 'server/public/assets/scripts/app.min.js'
-            },
-            designJS: {
-                src: 'client/scripts/design.js',
-                dest: 'server/public/assets/scripts/design.min.js'
-            },
-            developmentJS: {
-                src: 'client/scripts/development.js',
-                dest: 'server/public/assets/scripts/development.min.js'
-            },
-            resumeJS: {
-                src: 'client/scripts/resume.js',
-                dest: 'server/public/assets/scripts/resume.min.js'
             }
 
         },
