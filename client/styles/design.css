@@ -4,6 +4,15 @@ footer {
     bottom:0;
 }
 
+#branding1 h4, #branding2 h4, #branding3 h4, #campaigns1 h4, #campaigns2 h4, #illustrations2 h4 {
+    clear: both;
+    padding-top: 30px;
+}
+
+.designDescription {
+    max-width: 540px;
+}
+
 #portfolio {
     margin-top: 200px;
     margin-bottom: 80px;
@@ -65,7 +74,6 @@ footer {
     background-repeat: no-repeat;
     height: 350px;
     width: 530px;
-    float: left;
     clear: both;
 }
 
@@ -116,7 +124,6 @@ footer {
     background-size: 80%;
     background-repeat: no-repeat;
     height: 350px;
-    float: left;
     clear: both;
     margin-left: 20px;
     background-image: url("../images/design_pieces/branding/wakey_wakey/wakey_bc.png");
@@ -126,7 +133,6 @@ footer {
     background-size: 80%;
     background-repeat: no-repeat;
     height: 650px;
-    float: left;
     clear: both;
     margin-left: 20px;
     background-image: url("../images/design_pieces/branding/wakey_wakey/wakey_letterhead.png");
@@ -136,7 +142,6 @@ footer {
     background-size: 90%;
     background-repeat: no-repeat;
     height: 250px;
-    float: left;
     clear: both;
     margin-left: 20px;
     background-image: url("../images/design_pieces/branding/wakey_wakey/wakey_envelope.png");
@@ -146,7 +151,6 @@ footer {
     background-size: 100%;
     background-repeat: no-repeat;
     height: 340px;
-    float: left;
     clear: both;
     margin-left: 25px;
     background-image: url("../images/design_pieces/branding/wakey_wakey/wakey_cartoon.png");
@@ -155,7 +159,6 @@ footer {
     background-size: 100%;
     background-repeat: no-repeat;
     height: 450px;
-    float: left;
     clear: both;
     background-image: url("../images/design_pieces/branding/wakey_wakey/wakey_cartoon.png");
 
@@ -164,7 +167,6 @@ footer {
     background-size: 100%;
     background-repeat: no-repeat;
     height: 620px;
-    float: left;
     clear: both;
 }
 
