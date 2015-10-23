@@ -6,14 +6,18 @@
     margin-bottom: 100px;
     min-height: 320px;
 }
-#docentMainPage, #fruitMainPage {
+#docentMainPage {
+    min-height: 285px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#fruitMainPage {
     min-height: 270px;
     background-repeat: no-repeat;
     background-size: cover;
 }
-
 #rocketMainPage {
-    min-height: 290px;
+    min-height: 305px;
     background-repeat: no-repeat;
     background-size: cover;
 }
